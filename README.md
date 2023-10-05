@@ -35,7 +35,7 @@ Ao longo da análise, mantivemos uma comunicação constante com nosso cliente, 
 ```
 Análise_Dados_Empresas/
 │
-├── Modelos/
+├── Decompose/
 ├── Testes_A_B/
 ├── SQL/
 └── Análise_Final/
