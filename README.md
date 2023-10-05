@@ -36,29 +36,9 @@ Ao longo da análise, mantivemos uma comunicação constante com nosso cliente, 
 Análise_Dados_Empresas/
 │
 ├── Modelos/
-│   ├── modelo_1.ipynb
-│   ├── modelo_2.ipynb
-│   └── ...
-│
 ├── Testes_A_B/
-│   ├── teste_ab_1.ipynb
-│   ├── teste_ab_2.ipynb
-│   └── ...
-│
 ├── SQL/
-│   ├── consulta_sql_1.sql
-│   ├── consulta_sql_2.sql
-│   └── ...
-│
 └── Análise_Final/
-    ├── segmentacao_clientes.ipynb
-    ├── dados/
-    │   ├── dataset_1.csv
-    │   ├── dataset_2.csv
-    │   └── ...
-    └── apresentacao/
-        ├── slides.ppt
-        └── relatorio.pdf
 ```
 
 ## Reflexão Final
